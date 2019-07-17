@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "107656734644",
+    "firebase_url": "https://shuttle-bus-trac-1539664985436.firebaseio.com",
+    "project_id": "shuttle-bus-trac-1539664985436",
+    "storage_bucket": "shuttle-bus-trac-1539664985436.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107656734644:android:747fd05b7f5ed822",
+        "android_client_info": {
+          "package_name": "wencongchio.com.ucsibustracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107656734644-dio0flr9bgm3g99l8praqcge7a8fpi87.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "wencongchio.com.ucsibustracker",
+            "certificate_hash": "abf7127b842d568d9867876992f53fd35aecf426"
+          }
+        },
+        {
+          "client_id": "107656734644-u5ocq4j57ej2f8dm26ts5e1tdr3gc4v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "API Key"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107656734644-u5ocq4j57ej2f8dm26ts5e1tdr3gc4v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107656734644:android:b11139bff2e16e0d",
+        "android_client_info": {
+          "package_name": "wencongchio.com.ucsibustrackerdriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107656734644-p44ld0844m8d16hftqo8b4i81svlm533.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "wencongchio.com.ucsibustrackerdriver",
+            "certificate_hash": "abf7127b842d568d9867876992f53fd35aecf426"
+          }
+        },
+        {
+          "client_id": "107656734644-u5ocq4j57ej2f8dm26ts5e1tdr3gc4v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "API Key"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107656734644-u5ocq4j57ej2f8dm26ts5e1tdr3gc4v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
